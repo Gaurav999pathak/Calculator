@@ -1,5 +1,5 @@
 body {
-  background-image: url(./_\ 2.jpeg);
+  background-image: url(./main.jpeg);
   font-family: Arial, sans-serif;
   display: flex;
   justify-content: center;
@@ -10,7 +10,7 @@ body {
 }
 
 .calculator {
-  background-image: url(./_.jpeg);
+  background-image: url(./logo.jpeg);
   background-color: #fff;
   padding: 20px;
   border-radius: 12px;
